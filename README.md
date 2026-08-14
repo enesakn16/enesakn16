@@ -1,73 +1,113 @@
 <div align="center">
 
-# Enes AKIN
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:111827,50:1f2937,100:2563eb&text=Enes%20AKIN&fontColor=ffffff&fontSize=42&fontAlignY=36&desc=E-ticaret%20%C2%B7%20Otomasyon%20%C2%B7%20Operasyon%20Yaz%C4%B1l%C4%B1mlar%C4%B1&descAlignY=57&descSize=16" alt="Enes AKIN" />
 
-### Building practical software for e-commerce, operations and motorcycle commerce.
+### Gerçek iş problemlerini yazılımla çözüyorum.
 
-I build tools around real business problems: finance, inventory, marketplace profitability, B2B workflows, SEO automation and operational systems.
+**E-ticaret operasyonları, stok, finans, pazaryeri analitiği ve motosiklet sektörü** için pratik sistemler geliştiriyorum.
 
-[![GitHub](https://img.shields.io/badge/GitHub-enesakn16-181717?logo=github&logoColor=white)](https://github.com/enesakn16)
-[![TÜRKMOPET](https://img.shields.io/badge/T%C3%9CRKMOPET-turkmopet.com-111827)](https://turkmopet.com)
-[![Lastik Gezegeni](https://img.shields.io/badge/Lastik%20Gezegeni-lastikgezegeni.com-111827)](https://lastikgezegeni.com)
+[![GitHub](https://img.shields.io/badge/GitHub-enesakn16-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/enesakn16)
+[![TÜRKMOPET](https://img.shields.io/badge/T%C3%9CRKMOPET-turkmopet.com-111827?style=for-the-badge)](https://turkmopet.com)
+[![Lastik Gezegeni](https://img.shields.io/badge/Lastik%20Gezegeni-lastikgezegeni.com-2563EB?style=for-the-badge)](https://lastikgezegeni.com)
 
 </div>
 
 ---
 
-## What I build
+## 👋 Kısaca ben
 
-- **Finance & internal systems** — account tracking, balances, due dates and operational reporting
-- **E-commerce operations** — inventory, supplier, order and marketplace workflows
-- **Business intelligence** — profitability, risk, trend and operational analysis
-- **Automation** — repetitive back-office work turned into reliable software
-- **Motorcycle commerce tools** — fitment, catalog, stock and product-data workflows
+Ben **Enes**. Yazılımı sadece kod yazmak için değil, doğrudan işin içindeki problemleri çözmek için kullanıyorum.
 
-## Featured projects
+Geliştirdiğim projelerin çoğu gerçek operasyonlardan çıkıyor: stok uyuşmazlığı, cari takibi, tedarikçi verisi, pazaryeri kârlılığı, B2B süreçleri, SEO analizi ve tekrar eden manuel işler.
 
-| Project | What it does |
-|---|---|
-| [**cari-360**](https://github.com/enesakn16/cari-360) | Security-isolated public demo of a current-account and financial operations application, using synthetic data with automated secret/network safety checks. |
-| [**muhasebe-program**](https://github.com/enesakn16/muhasebe-program) | Finance/accounting tooling with release validation, security controls and an isolated demo mode. |
-| [**turkmopet-warehouse-ops**](https://github.com/enesakn16/turkmopet-warehouse-ops) | Stock reconciliation, data-quality checks, persistent warehouse tasks, SLA and escalation workflows. |
-| [**turkmopet-marketplace-intelligence**](https://github.com/enesakn16/turkmopet-marketplace-intelligence) | Marketplace profitability analysis, channel comparison and decline alerts. |
-| [**turkmopet-b2b-growth-suite**](https://github.com/enesakn16/turkmopet-b2b-growth-suite) | B2B account scoring, sales-action workflows, task management and SLA tracking. |
-| [**turkmopet-seo-content-engine**](https://github.com/enesakn16/turkmopet-seo-content-engine) | Catalog SEO auditing, Search Console prioritization and cannibalization analysis. |
-
-## Building next
-
-- [**moto-fitment-engine**](https://github.com/enesakn16/moto-fitment-engine) — motorcycle model/year to compatible tyre and part fitment engine
-- [**supplier-price-watch**](https://github.com/enesakn16/supplier-price-watch) — supplier price-list comparison, change detection and margin-risk tooling
-
-These repositories are intentionally developed as real products rather than placeholder project counts.
-
-## Engineering priorities
-
-```text
-Real problem → simple architecture → automated tests → CI → useful release
-```
-
-I care about software that is **usable, testable, secure and maintainable**.
-
-## Current stack
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" />
-</p>
-
-## Current focus
-
-- building stronger flagship repositories instead of shallow project count
-- automated testing and CI across active projects
-- clear demos, releases and documentation
-- reusable open-source tools for e-commerce and motorcycle-industry workflows
-- keeping public demo repositories isolated from production data and secrets
+> **Hedefim:** daha az manuel iş, daha temiz veri ve daha hızlı karar veren sistemler.
 
 ---
 
+## 🚀 Öne çıkan projeler
+
+| Proje | Ne çözüyor? |
+| :--- | :--- |
+| [**cari-360**](https://github.com/enesakn16/cari-360) | Cari hesap ve finans operasyonları için güvenli, izole edilmiş demo uygulaması. |
+| [**muhasebe-program**](https://github.com/enesakn16/muhasebe-program) | Muhasebe ve finans süreçlerini yöneten; doğrulama, güvenlik ve demo katmanları bulunan masaüstü araçları. |
+| [**turkmopet-warehouse-ops**](https://github.com/enesakn16/turkmopet-warehouse-ops) | Stok mutabakatı, veri kalitesi kontrolleri, depo görevleri, SLA ve operasyon takibi. |
+| [**turkmopet-marketplace-intelligence**](https://github.com/enesakn16/turkmopet-marketplace-intelligence) | Pazaryeri kârlılığı, kanal karşılaştırması ve performans düşüşü analizi. |
+| [**turkmopet-b2b-growth-suite**](https://github.com/enesakn16/turkmopet-b2b-growth-suite) | B2B müşteri puanlama, satış aksiyonları, görev yönetimi ve takip sistemi. |
+| [**turkmopet-seo-content-engine**](https://github.com/enesakn16/turkmopet-seo-content-engine) | Katalog SEO denetimi, Search Console önceliklendirmesi ve cannibalization analizi. |
+
+---
+
+## 🧠 Üzerinde çalıştığım alanlar
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏪 E-ticaret & Operasyon
+
+- Stok ve depo otomasyonu
+- Sipariş / tedarikçi akışları
+- Pazaryeri kârlılık analizi
+- B2B süreç otomasyonu
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Yazılım & Veri
+
+- Masaüstü iş uygulamaları
+- API entegrasyonları
+- Veri doğrulama ve raporlama
+- Test, CI ve güvenli release süreçleri
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Teknoloji setim
+
 <div align="center">
-  <sub>Projects on this profile are actively maintained and improved over time.</sub>
+
+<img src="https://skillicons.dev/icons?i=python,kotlin,mysql,sqlite,git,github,githubactions&perline=7" alt="Tech Stack" />
+
+<br><br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+</div>
+
+---
+
+## 🔭 Sıradaki işler
+
+- [**moto-fitment-engine**](https://github.com/enesakn16/moto-fitment-engine) — motosiklet model/yıl bilgisine göre uyumlu lastik ve parça eşleştirme motoru
+- [**supplier-price-watch**](https://github.com/enesakn16/supplier-price-watch) — tedarikçi fiyat listelerini karşılaştıran, değişiklik ve marj risklerini tespit eden sistem
+
+---
+
+## 💡 Geliştirme yaklaşımım
+
+```text
+Gerçek problem → sade mimari → test → CI → çalışan ürün
+```
+
+Benim için iyi yazılım sadece çalışan kod değildir. **Kullanılabilir, test edilebilir, güvenli, sürdürülebilir ve gerçek bir problemi çözen** yazılımdır.
+
+<div align="center">
+
+<br>
+
+**Build things that are actually useful.**
+
+<sub>Bu profildeki projeler yaşayan projelerdir; zamanla geliştirilmeye ve iyileştirilmeye devam eder.</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:111827,50:1f2937,100:2563eb&section=footer" alt="footer" />
+
 </div>
