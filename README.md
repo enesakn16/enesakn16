@@ -19,7 +19,7 @@ E-ticaret operasyonları, finans, stok/depo süreçleri ve motosiklet sektörü 
 
 ## Building next
 
-- [**supplier-price-watch**](https://github.com/enesakn16/supplier-price-watch) — CSV/XLSX tedarikçi listelerini karşılaştıran, fiyat değişimi ve marj riskini çıkaran testli Python aracı. Çalışan CLI ve CI mevcut; ilk public release öncesi ürün kimliği eşleştirme ve dokümantasyon tamamlanıyor.
+- [**supplier-price-watch**](https://github.com/enesakn16/supplier-price-watch) — CSV/XLSX tedarikçi listelerini karşılaştıran, eklenen/çıkarılan SKU'ları ve satış kataloğuna göre marj riskini raporlayan testli Python CLI. v0.1.0 release adayı; gerçek tedarikçi profilleri yalnız doğrulanmış dosya şemalarından üretilecek.
 - [**moto-fitment-engine**](https://github.com/enesakn16/moto-fitment-engine) — marka/model/yıl → OEM/alternatif lastik-parça eşleştirme motoru. Test ve CI mevcut; doğrulanabilir üretici kaynaklı fitment veri katmanı tamamlanmadan production-ready kabul edilmiyor.
 
 ## Stack
