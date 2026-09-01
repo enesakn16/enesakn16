@@ -6,6 +6,10 @@ E-ticaret operasyonları, finans, stok/depo süreçleri ve motosiklet sektörü 
 
 [GitHub](https://github.com/enesakn16) · [TÜRKMOPET](https://turkmopet.com) · [Lastik Gezegeni](https://lastikgezegeni.com)
 
+## Current roadmap
+
+- [**September 2026 portfolio roadmap**](ROADMAP-2026-09.md) — üç ana hat: doğrulanmış Kotlin Android release, Moto Fitment Engine servis sınırı ve Supplier Price Watch v0.1.0 release.
+
 ## Featured projects
 
 | Project | Purpose | Status |
@@ -19,8 +23,8 @@ E-ticaret operasyonları, finans, stok/depo süreçleri ve motosiklet sektörü 
 
 ## Building next
 
-- [**moto-fitment-engine**](https://github.com/enesakn16/moto-fitment-engine) — marka/model/yıl → OEM/alternatif lastik-parça eşleştirme motoru. Test ve CI mevcut; doğrulanabilir üretici kaynaklı fitment veri katmanı tamamlanmadan production-ready kabul edilmiyor.
-- [**muhasebe-program**](https://github.com/enesakn16/muhasebe-program) — muhasebe/finans iş akışları için doğrulama ve güvenli demo katmanları; vitrinde tekrar öne çıkması için ürün yüzeyi, test kapsamı ve release olgunluğunun güçlenmesi gerekiyor.
+- [**bmi-hesaplama-mobile-app**](https://github.com/enesakn16/bmi-hesaplama-mobile-app) — Kotlin/Jetpack Compose Android uygulaması. Açık PR'daki son CI, instrumentation artifact ve merge çakışması doğrulanmadan release kabul edilmiyor.
+- [**moto-fitment-engine**](https://github.com/enesakn16/moto-fitment-engine) — marka/model/yıl → OEM/alternatif lastik eşleştirme ve geometry screening motoru. Doğrulanabilir üretici kaynaklı veri katmanı ve fail-closed kurallar geliştiriliyor.
 
 ## Stack
 
