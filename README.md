@@ -8,14 +8,14 @@ E-ticaret operasyonları, finans, stok/depo süreçleri ve motosiklet sektörü 
 
 ## Current roadmap
 
-- [**September 2026 portfolio roadmap**](ROADMAP-2026-09.md) — üç ana hat: doğrulanmış Kotlin Android release, Moto Fitment Engine servis sınırı ve Supplier Price Watch v0.1.0 release.
+- [**September 2026 portfolio roadmap**](ROADMAP-2026-09.md) — üç ana hat: doğrulanmış Kotlin Android release, Moto Fitment Engine güvenli servis sınırı ve Supplier Price Watch v0.2.0 release.
 
 ## Featured projects
 
 | Project | Purpose | Status |
 | --- | --- | --- |
 | [**cari-360**](https://github.com/enesakn16/cari-360) | Sentetik veriyle çalışan, güvenli offline cari/finans demo uygulaması ve yaşlandırma raporu | Tested · CI |
-| [**supplier-price-watch**](https://github.com/enesakn16/supplier-price-watch) | CSV/XLSX tedarikçi listelerini karşılaştırır; fiyat değişimi, eklenen/çıkarılan SKU ve satış kataloğuna göre marj riski üretir | v0.1.0 RC · Tested · CI |
+| [**supplier-price-watch**](https://github.com/enesakn16/supplier-price-watch) | CSV/XLSX tedarikçi listelerini karşılaştırır; fiyat değişimi, eklenen/çıkarılan SKU ve satış kataloğuna göre marj riski üretir | v0.2.0 release-ready · Tested · CI |
 | [**turkmopet-warehouse-ops**](https://github.com/enesakn16/turkmopet-warehouse-ops) | Stok mutabakatı, veri kalitesi, görev yaşam döngüsü, SLA ve eskalasyon | Tested · CI |
 | [**turkmopet-marketplace-intelligence**](https://github.com/enesakn16/turkmopet-marketplace-intelligence) | Pazaryeri maliyetlerini ortak modele çevirip katkı kârı ve risk analizi üretir | Tested · CI |
 | [**turkmopet-b2b-growth-suite**](https://github.com/enesakn16/turkmopet-b2b-growth-suite) | B2B müşteri puanlama, satış aksiyonları, görev ve audit akışı | Tested · CI |
