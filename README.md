@@ -6,25 +6,27 @@ E-ticaret operasyonları, finans, stok/depo süreçleri ve motosiklet sektörü 
 
 [GitHub](https://github.com/enesakn16) · [TÜRKMOPET](https://turkmopet.com) · [Lastik Gezegeni](https://lastikgezegeni.com)
 
-## Current roadmap
+## Current focus
 
-- [**September 2026 portfolio roadmap**](ROADMAP-2026-09.md) — üç ana hat: doğrulanmış Kotlin Android release, Moto Fitment Engine güvenli servis sınırı ve Supplier Price Watch v0.2.0 release.
+- **Moto Fitment Engine:** doğrulanmış marka/model/yıl → OEM lastik ölçüsü, güvenli alternatif eleme ve katalog sıralama
+- **Supplier Price Watch:** tedarikçi fiyat değişimi, SKU kimliği ve marj riski; `v0.2.0` kod tabanı hazır, GitHub release/tag henüz yayınlanmadı
+- **Portfolio reliability:** çalışan test/CI, sentetik public fixture'lar ve açık demo/production sınırları
 
 ## Featured projects
 
 | Project | Purpose | Status |
 | --- | --- | --- |
-| [**cari-360**](https://github.com/enesakn16/cari-360) | Sentetik veriyle çalışan, güvenli offline cari/finans demo uygulaması ve yaşlandırma raporu | Tested · CI |
-| [**supplier-price-watch**](https://github.com/enesakn16/supplier-price-watch) | CSV/XLSX tedarikçi listelerini karşılaştırır; fiyat değişimi, eklenen/çıkarılan SKU ve satış kataloğuna göre marj riski üretir | v0.2.0 release-ready · Tested · CI |
+| [**cari-360**](https://github.com/enesakn16/cari-360) | Sentetik veriyle çalışan güvenli offline cari/finans demo uygulaması ve yaşlandırma raporu | Tested · CI |
+| [**moto-fitment-engine**](https://github.com/enesakn16/moto-fitment-engine) | Marka/model/yıl → doğrulanmış OEM lastik ölçüsü; fail-closed alternatif eleme ve katalog sıralama | Working CLI/API · Tested · CI |
+| [**supplier-price-watch**](https://github.com/enesakn16/supplier-price-watch) | CSV/XLSX tedarikçi listelerini karşılaştırır; fiyat değişimi, SKU kimliği ve marj riski üretir | v0.2.0 codebase · Tested · CI · Release pending |
 | [**turkmopet-warehouse-ops**](https://github.com/enesakn16/turkmopet-warehouse-ops) | Stok mutabakatı, veri kalitesi, görev yaşam döngüsü, SLA ve eskalasyon | Tested · CI |
 | [**turkmopet-marketplace-intelligence**](https://github.com/enesakn16/turkmopet-marketplace-intelligence) | Pazaryeri maliyetlerini ortak modele çevirip katkı kârı ve risk analizi üretir | Tested · CI |
 | [**turkmopet-b2b-growth-suite**](https://github.com/enesakn16/turkmopet-b2b-growth-suite) | B2B müşteri puanlama, satış aksiyonları, görev ve audit akışı | Tested · CI |
-| [**turkmopet-seo-content-engine**](https://github.com/enesakn16/turkmopet-seo-content-engine) | Katalog SEO denetimi, Search Console önceliklendirmesi ve içerik çakışması analizi | Tested · CI |
 
 ## Building next
 
-- [**bmi-hesaplama-mobile-app**](https://github.com/enesakn16/bmi-hesaplama-mobile-app) — Kotlin/Jetpack Compose Android uygulaması. Açık PR'daki son CI, instrumentation artifact ve merge çakışması doğrulanmadan release kabul edilmiyor.
-- [**moto-fitment-engine**](https://github.com/enesakn16/moto-fitment-engine) — marka/model/yıl → OEM/alternatif lastik eşleştirme ve geometry screening motoru. Doğrulanabilir üretici kaynaklı veri katmanı ve fail-closed kurallar geliştiriliyor.
+- [**bmi-hesaplama-mobile-app**](https://github.com/enesakn16/bmi-hesaplama-mobile-app) — Kotlin/Jetpack Compose Android uygulaması; açık PR doğrulanıp temiz biçimde merge edilmeden flagship kabul edilmiyor.
+- [**turkmopet-seo-content-engine**](https://github.com/enesakn16/turkmopet-seo-content-engine) — katalog SEO denetimi ve Search Console önceliklendirmesi; ürünleşme ve dış kullanıcı değeri güçlendirilecek.
 
 ## Stack
 
