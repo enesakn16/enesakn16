@@ -12,7 +12,7 @@ E-ticaret operasyonları, finans, stok/depo süreçleri ve motosiklet sektörü 
 - **Supplier Price Watch:** tedarikçi fiyat değişimi, SKU kimliği ve marj riski; `v0.2.0` kod tabanı hazır, GitHub release/tag henüz yayınlanmadı
 - **Portfolio reliability:** çalışan test/CI, sentetik public fixture'lar ve açık demo/production sınırları
 
-[Ekim 2026 portföy yol haritası](ROADMAP-2026-10.md)
+[Kasım 2026 portföy yol haritası](ROADMAP-2026-11.md) · [Ekim arşivi](ROADMAP-2026-10.md)
 
 ## Featured projects
 
